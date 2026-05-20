@@ -139,7 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="klasa.h" />
+    <ClInclude Include="Mapa.h" />
     <ClInclude Include="Postac.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
@@ -147,7 +147,7 @@
     <ResourceCompile Include="Project1.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="klasa.cpp" />
+    <ClCompile Include="Mapa.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Postac.cpp" />
   </ItemGroup>

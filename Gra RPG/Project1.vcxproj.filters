@@ -18,7 +18,7 @@
     <ClInclude Include="resource.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="klasa.h">
+    <ClInclude Include="Mapa.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
     <ClInclude Include="Postac.h">
@@ -34,7 +34,7 @@
     <ClCompile Include="main.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="klasa.cpp">
+    <ClCompile Include="Mapa.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
     <ClCompile Include="Postac.cpp">
