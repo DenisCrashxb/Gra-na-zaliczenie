@@ -1,6 +1,3 @@
-#ifndef POSTAC_H
-#define POSTAC_H
-
 #include <string>
 
 struct Statystyki
@@ -39,4 +36,3 @@ public:
     bool czyZyje();
 };
 
-#endif

@@ -1,5 +1,3 @@
-#ifndef KLASA_H
-#define KLASA_H
 #include <iostream>
 #include <cctype>
 #include <vector>
@@ -29,4 +27,3 @@ public:
     void dodajLog(std::string tekst);
 };
 
-#endif

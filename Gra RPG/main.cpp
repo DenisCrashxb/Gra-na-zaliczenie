@@ -1,5 +1,5 @@
 
-#include "Klasa.h"
+#include "Mapa.h"
 
 int main()
 {

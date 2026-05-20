@@ -1,4 +1,4 @@
-#include "Klasa.h"
+#include "Mapa.h"
 #include <iostream>
 
 Gra::Gra()
